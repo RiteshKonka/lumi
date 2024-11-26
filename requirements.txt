@@ -1,9 +1,13 @@
-from langchain_community.document_loaders import PyPDFLoader,DirectoryLoader
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.llms import CTransformers
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import FAISS
-from langchain.memory import ConversationBufferMemory
-
-
-
+langchain_community
+langchain
+streamlit
+torch 
+transformers
+langchain_huggingface
+langchain_text_splitters
+faiss-cpu
+tiktoken
+sentence-transformers
+ctransformers
+streamlit-chat
+pypdf
