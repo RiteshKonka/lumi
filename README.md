@@ -2,7 +2,7 @@
 
 A compassionate AI-powered mental health companion built with modern technology and a soothing user interface.
 
-![Lumi Interface](purple_gradient.jpg)
+![Lumi Interface](pixelcut-export.png)
 
 ## Overview
 
